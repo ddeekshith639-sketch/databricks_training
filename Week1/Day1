@@ -87,7 +87,9 @@ Select only the name and salary columns from the Employee table.
 Select employees who are older than 30.
 Select the names of all departments.
 Select employees who work in the IT department.
-String Matching Queries (5)
+
+--String Matching Queries (5)
+
 Select employees whose names start with 'J'.
 Select employees whose names end with 't'.
 Select employees whose name contains 'o'.
